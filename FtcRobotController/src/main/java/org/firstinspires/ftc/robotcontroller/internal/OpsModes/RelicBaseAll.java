@@ -28,6 +28,7 @@ public abstract class RelicBaseAll extends LinearOpMode{
         // Wait for the game to start (driver presses PLAY)
         waitForStart();
     }
+    //Test
 
 
     //Timing
